@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 1.36.3-next.2
+
+### Patch Changes
+
+- 1ecc3ca: Fixed spelling mistakes in internal code
+- Updated dependencies
+  - @backstage/ui@0.15.0-next.3
+
 ## 1.36.3-next.1
 
 ### Patch Changes

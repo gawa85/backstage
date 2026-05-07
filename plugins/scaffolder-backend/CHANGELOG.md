@@ -1,5 +1,15 @@
 # @backstage/plugin-scaffolder-backend
 
+## 4.0.0-next.2
+
+### Major Changes
+
+- c78b3b6: Add explicit memory management to SecureTemplater usage
+
+### Patch Changes
+
+- 1ecc3ca: Fixed spelling mistakes in internal code
+
 ## 3.5.0-next.1
 
 ### Minor Changes

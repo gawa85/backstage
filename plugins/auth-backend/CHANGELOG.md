@@ -1,5 +1,11 @@
 # @backstage/plugin-auth-backend
 
+## 0.28.1-next.2
+
+### Patch Changes
+
+- 4f62755: Improved the OAuth consent dialog for MCP authorization by showing more client details, including the client metadata host for CIMD clients, the metadata URL, callback URL, and requested scopes.
+
 ## 0.28.1-next.1
 
 ### Patch Changes

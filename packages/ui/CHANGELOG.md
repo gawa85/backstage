@@ -1,5 +1,13 @@
 # @backstage/ui
 
+## 0.15.0-next.3
+
+### Patch Changes
+
+- 4bb649d: Fixed Table with row selection creating phantom scroll height on ancestor elements by establishing a containing block for visually-hidden checkbox inputs.
+
+  **Affected components:** Table, TableRoot
+
 ## 0.15.0-next.2
 
 ### Patch Changes

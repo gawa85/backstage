@@ -1,5 +1,16 @@
 # example-backend
 
+## 0.0.50-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder-backend@4.0.0-next.2
+  - @backstage/plugin-kubernetes-backend@0.21.4-next.1
+  - @backstage/plugin-auth-backend@0.28.1-next.2
+  - @backstage/backend-defaults@0.17.1-next.2
+  - @backstage/plugin-search-backend-module-elasticsearch@1.8.3-next.2
+
 ## 0.0.50-next.2
 
 ### Patch Changes
